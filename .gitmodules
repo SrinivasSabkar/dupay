@@ -1,0 +1,3 @@
+[submodule "dupayfrontend"]
+    path = dupayfrontend
+    url = https://github.com/Ascenddefilabs/dupayfrontend.git
